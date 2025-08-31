@@ -1,6 +1,6 @@
 ## Cambios realizados
 - [ ] Lista de cambios
-- [ ] realizados
+- [ ] Correcciones
 
 ## Tipo de cambio
 - [ ] Feature
