@@ -33,7 +33,8 @@
 
 ## Ejemplos:
 
-text feat: add responsive navigation menu
+text feat: 
+    - add responsive navigation menu
     - Implement mobile-first responsive design
     - Add hamburger menu for mobile devices
 
